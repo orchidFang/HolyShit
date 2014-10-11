@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>question</key>
+		<string>1. 如何修改默认密码？</string>
+		<key>answer</key>
+		<string>当您以默认密码登录微联APP之后，进入“设置”菜单，在“用户选项”一栏，单击“修改密码”，输入原密码000000，依次输入2次新密码，保存后即可修改成功。</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>2. 如何记住当前密码方便下次登录？</string>
+		<key>answer</key>
+		<string>进入“设置”菜单，在“用户选项”一栏把“启动后自动登录”开关打开，则下次登录不用再次输入密码。当然，您也可以关闭开关来取消记住密码的功能。</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>3. 接到新的通知公告后，我应如何处理？</string>
+		<key>answer</key>
+		<string>当您接到新的通知公告后，如果需要回执，通知公告详情页会有【参加】或者【不参加】的提示显示，根据您的情况选择后，填写回执备注，则完成了对一条通知公告消息的处理。如果不需要回执，按钮则不会显示。</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>4. 通讯录里的人来源于哪里？</string>
+		<key>answer</key>
+		<string>您的通讯录联系人来源于您当前所属组织下的其它成员，在通讯录里，可以单击电话号码直接进行呼叫操作。</string>
+	</dict>
+	<dict>
+		<key>question</key>
+		<string>5. 不想接到推荐阅读的推送消息怎么办？</string>
+		<key>answer</key>
+		<string>进入“设置”菜单，在“系统选项”一栏把“自动接收推荐阅读”开关关闭，则不会收到推荐阅读的推送消息。</string>
+	</dict>
+</array>
+</plist>
