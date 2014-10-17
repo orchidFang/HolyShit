@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BB4CF40A19EF95280014B416 /* UIActionSheet+UFBlock.m in Sources */ = {isa = PBXBuildFile; fileRef = BB4CF40919EF95280014B416 /* UIActionSheet+UFBlock.m */; };
 		BB82286F19CBC25B00C56851 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB82286E19CBC25B00C56851 /* Foundation.framework */; };
 		BB82287119CBC25B00C56851 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB82287019CBC25B00C56851 /* CoreGraphics.framework */; };
 		BB82287319CBC25B00C56851 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = BB82287219CBC25B00C56851 /* UIKit.framework */; };
@@ -76,6 +77,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		BB4CF40819EF95280014B416 /* UIActionSheet+UFBlock.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIActionSheet+UFBlock.h"; path = "Category/UIActionSheet+UFBlock.h"; sourceTree = "<group>"; };
+		BB4CF40919EF95280014B416 /* UIActionSheet+UFBlock.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIActionSheet+UFBlock.m"; path = "Category/UIActionSheet+UFBlock.m"; sourceTree = "<group>"; };
 		BB82286B19CBC25B00C56851 /* ufront2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ufront2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BB82286E19CBC25B00C56851 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		BB82287019CBC25B00C56851 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -443,6 +446,8 @@
 			children = (
 				BBED33FB19CFD6E500745BC4 /* UIAlertView+UFBlock.h */,
 				BBED33FC19CFD6E500745BC4 /* UIAlertView+UFBlock.m */,
+				BB4CF40819EF95280014B416 /* UIActionSheet+UFBlock.h */,
+				BB4CF40919EF95280014B416 /* UIActionSheet+UFBlock.m */,
 			);
 			name = Category;
 			sourceTree = "<group>";
@@ -580,6 +585,7 @@
 				BBED33FD19CFD6E500745BC4 /* UIAlertView+UFBlock.m in Sources */,
 				BBED339419CBFA3400745BC4 /* UIWebView+AFNetworking.m in Sources */,
 				BBED338E19CBFA3400745BC4 /* UIActivityIndicatorView+AFNetworking.m in Sources */,
+				BB4CF40A19EF95280014B416 /* UIActionSheet+UFBlock.m in Sources */,
 				BBED338519CBFA3400745BC4 /* AFHTTPRequestOperationManager.m in Sources */,
 				BBED339319CBFA3400745BC4 /* UIRefreshControl+AFNetworking.m in Sources */,
 				BBED338819CBFA3400745BC4 /* AFSecurityPolicy.m in Sources */,

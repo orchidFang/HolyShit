@@ -15,8 +15,8 @@
 //NSString* const picCommonUrl = @"http://192.168.1.122:8080";
 
 
-//NSString* const picCommonUrl = @"http://chonseng.eicp.net:9080";
-//NSString* const commonUrl = @"http://chonseng.eicp.net:9080/ufront/mobile";
+NSString* const commonURL = @"http://chonseng.eicp.net:9080";
+NSString* const baseURLString = @"http://chonseng.eicp.net:9080/ufront/mobile";
 //NSString* const commonUrl = @"http://192.168.1.106:8080/ufront/mobile";
 
 ///////////////////////test.cyyun.com/////////////////////
@@ -27,8 +27,8 @@
 
 /////////////////////www.cyyun.com////////////////////////
 
-NSString *const commonURL = @"http://www.cyyun.com";
-NSString* const baseURLString = @"http://www.cyyun.com/ufront/mobile";
+//NSString *const commonURL = @"http://www.cyyun.com";
+//NSString* const baseURLString = @"http://www.cyyun.com/ufront/mobile";
 
 
 +(NSString *)md5:(NSString *)str
